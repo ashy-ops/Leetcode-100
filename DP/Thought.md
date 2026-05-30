@@ -4,3 +4,4 @@ If recurssion how many choices?
 If multiple choices then maybe tabular 2D DP?
 Or maybe not tabular but 2 indexes required to represent a single state?
 
+https://www.youtube.com/watch?v=gK8KmTDtX8E
